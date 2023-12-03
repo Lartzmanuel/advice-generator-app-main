@@ -14,6 +14,7 @@
 }
 
 body{
+    padding: 0 5px;
     background-color: var(--dark-blue);
     font-family: 'Manrope';
     display: flex;
