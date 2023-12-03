@@ -17,13 +17,16 @@ body{
     padding: 0 15px;
     background-color: var(--dark-blue);
     font-family: 'Manrope';
+    display: flex;
+    justify-content: center;
+    align-items: center;
     height: 100vh;
 }
 
 .advice-card {
     width: 100%;
     text-align: center;
-    padding: 15px 15px;
+    padding: 15px;
     background-color: var(--dark-grayish-blue);
     border-radius: 10px;
     position: relative;
@@ -64,7 +67,7 @@ h3 {
     box-shadow: 0 0 10px rgba(87, 255, 143, 0.5), 0 0 30px rgba(87, 255, 143, 0.5), 0 0 50px rgba(87, 255, 143, 0.5);
 }
 
-@media only screen and (min-width: 376px){
+@media only screen and (min-width: 375px) and (max-width: 1440px){
     body {
         width: 500px;
         margin: auto;
