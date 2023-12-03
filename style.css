@@ -14,7 +14,7 @@
 }
 
 body{
-    padding: 0 10px;
+    padding: 120px 15px 0 15px;
     background-color: var(--dark-blue);
     font-family: 'Manrope';
     height: 100vh;
@@ -27,7 +27,6 @@ body{
     background-color: var(--dark-grayish-blue);
     border-radius: 10px;
     position: relative;
-    margin-top: 120px;
 }
 
 .advice {
