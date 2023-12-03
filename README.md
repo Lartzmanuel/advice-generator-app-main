@@ -45,7 +45,7 @@ Users should be able to:
 
 ### What I learned
 
-I learnt to to use API's using async/await and fetch
+I learnt to use API's using async/await and fetch
 
 
 ## Author
