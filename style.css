@@ -64,6 +64,19 @@ h3 {
 }
 
 @media only screen and (min-width: 375px) and (max-width: 576px){
+
+        body {
+        padding-top: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+    }
+
+    .advice-card {
+        max-width: 400px;
+        margin: 0 auto;
+    }
     .button {
         position: absolute;
         left: 160px;
