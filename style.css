@@ -74,12 +74,12 @@ h3 {
     }
 
     .advice-card {
-        max-width: 400px;
+        max-width: 100%;
         margin: 0 auto;
     }
     .button {
         position: absolute;
-        left: 160px;
+        left: 155px;
     }
 }
 
