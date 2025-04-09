@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github repo](https://your-solution-url.com)
+- Solution URL: [Github repo](https://github.com/Lartzmanuel/advice-generator-app-main)
 - Live Site URL: [Vercel](https://advice-generator-app-main-psi-blue.vercel.app/)
 
 ## My process
